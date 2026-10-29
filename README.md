@@ -4,7 +4,7 @@
 
 ## 数据来源
 
-- 数据集：TMDB 5000 Movies Dataset（网址：https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata）
+- 数据集：TMDB 5000 Movies Dataset（Kaggle）
 - 文件：`data/movies_sample.csv`，原始 **4803 行 × 20 列**，上映年份 1916–2017
 - 主要字段：`title`、`release_date`、`vote_average`、`vote_count`、`genres`、`production_countries`、`runtime`、`status`
 
